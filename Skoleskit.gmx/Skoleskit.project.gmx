@@ -7,6 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\dick_spr</sprite>
+    <sprite>sprites\fuki_fuki_suki_suki</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
